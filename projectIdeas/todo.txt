@@ -1,0 +1,25 @@
+PROJECT TO-DOs
+	Website updates:
+		Add link to "Photos by Z" page
+		webpage for listing Apps with descriptions
+		create pages for menu, about me, SoundCloud?, LinkedIn?, github
+		comments, suggestions, messages page?
+		
+	Game Ideas:
+		Action Game:
+			different character classes, each with special attack
+			battle screen: 3 buttons -> | Defend | Attack | Special Attack |
+			
+		Text-based Game:
+			Game 1:
+				working for evil ruler
+				go along with plan or escape to fight him
+				
+			Game 2:
+				Day in the Life type?
+				real-world choices/actions
+				
+	Apps:
+		First App
+		Happy Birthday Card
+		Coffee Order App
